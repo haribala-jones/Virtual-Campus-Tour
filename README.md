@@ -80,7 +80,7 @@ This project was developed by a team of three members.
 
 |       Name        |          Role                         |
 |-------------------|---------------------------------------|
-| Jones malarvan. A | 360° Image Capture & Tour Design      |
+| Jones malaravan. A | 360° Image Capture & Tour Design      |
 | Haribala. B       | Panoee Development & Navigation       |
 | Krishna kumar. S  | Testing, Documentation & Presentation |
 
